@@ -1,3 +1,5 @@
+<img align="right" src="Geeks.gif" width="400"/>
+
 - 👋 Hi, I’m @JKawa1204
   
 - 👀  I’m interested in learning new technologies, particularly small board computers such as Teensy, Arduino, and Raspberry Pi. Additionally, I'm delving into web development and will soon embark on the journey of DevOps.
