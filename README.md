@@ -1,4 +1,4 @@
-<img align="right" src="Geeks.gif" width="400"/>
+<img align="center" src="Geeks.gif" width="100%"/>
 
 - 👋 Hi, I’m @JKawa1204
   
