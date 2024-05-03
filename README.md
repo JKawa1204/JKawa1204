@@ -4,7 +4,9 @@
 👀 I’m interested in learning new technologies, particularly small board computers such as Teensy, Arduino, and Raspberry Pi. Additionally, I'm delving into web development and will soon embark on the journey of DevOps.<br><br>🌱 I’m currently learning web development and will soon begin exploring DevOps.<br><br>💞️ I’m looking to collaborate with individuals passionate about web development and AI/ML. I'm particularly keen on connecting with those interested in both fields as I'll be starting my AI/ML journey by the end of this year.<br><br>⚡ Fun fact: I'm studying electronics and telecommunications engineering, fueling my curiosity for technology and innovation.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svglogo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-kawa-aa5727220/) [![X](https://img.shields.io/badge/X-black.svglogo=X&logoColor=white)](https://x.com/JayKawa12) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JayKawa)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayKawa12)
+
+
 
 
 # 💻 Tech Stack:
