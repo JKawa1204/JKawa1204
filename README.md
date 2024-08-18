@@ -14,6 +14,9 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JKawa1204)](https://github.com/anuraghazra/github-readme-stats)
+![Your language stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JKawa1204&theme=default)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
