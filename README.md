@@ -33,7 +33,6 @@ I've also been diving deeper into the **finance** world lately, applying my tech
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![Blynk](https://img.shields.io/badge/-Blynk-IOT-green?style=flat-square)](#)
 [![Keil](https://img.shields.io/badge/-Keil-blue?style=flat-square)](#)
 
 ### 🧠 AI, ML & Data  
@@ -68,13 +67,6 @@ I've also been diving deeper into the **finance** world lately, applying my tech
 
 ---
 
-## 📚 Certifications
-
-- 🧠 [Financial Markets – Yale University](https://coursera.org/share/2e4309fa...) *(Coursera)*
-- 📊 JPMorgan Chase — Quantitative Research Virtual Internship *(Forage)*
-- 🤖 Data Science & ML Fundamentals *(CFI)*
-
----
 
 ## 📬 Let's Connect
 
